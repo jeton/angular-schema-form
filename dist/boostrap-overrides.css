@@ -1,5 +1,5 @@
 .form-field-feedback-fixer {
-	position: absolute;
+	position: relative;
 }
 .form-control-feedback {
 	top: 0;
